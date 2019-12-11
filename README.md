@@ -5,4 +5,12 @@ In this project we aim to predict the mean hourly energy consumption of building
 
 Data on energy usage is from Kaggle and can be found at this link - https://www.kaggle.com/c/ashrae-energy-prediction
 
+<<<<<<< HEAD
+We fit several different models but found that our best results came from an xgboost model. Using XGBoost, we were able to predict the mean hourly energy consumption of a building with a Median Absolute Error of 52 kwH.
+
+`DesiBoyz_Final.ipynb` : combined analysis and modelling codes
+`data1.csv`, `data2.csv`, `data3.csv` : daily aggregated data files
+`presentation.pdf` : a copy of the presentation that we gave in class
+=======
 We fit several different models but found that our best results came from an xgboost model. Using xgboost we were able to predict the mean hourly energy consumption of a building to within 52 kwH.
+>>>>>>> fdfa1d883c02638186a87061560d04be4f7ee376
